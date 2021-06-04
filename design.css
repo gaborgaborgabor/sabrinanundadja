@@ -1,0 +1,27 @@
+/* ich bin eine Comment im CSS Dokumen */
+/************ HIer kommen nur Design Informationen rein *************/
+
+h1 {
+    background-color: red;
+}
+
+body {
+    background-color: black;
+    color: white; /* textfarbe */
+}
+
+
+header {
+    background-color: darkblue;
+    height: 200px;
+}
+
+nav {
+    background-color: greenyellow;
+    height: 50px;
+}
+
+footer {
+    background-color: darkorange;
+    height: 200px;
+}
